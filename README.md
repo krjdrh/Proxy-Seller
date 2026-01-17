@@ -2,7 +2,7 @@
 
 So you're hunting for reliable proxies that won't drain your wallet? Been there. The proxy market is packed with providers promising the moon, but most deliver rocks. After digging through actual user experiences and testing what Proxy-Seller offers, here's what you need to know before spending a dime.
 
-<img width="2865" height="1420" alt="image" src="https://github.com/user-attachments/assets/e55f79b6-6580-4882-82ff-826f7b7e8609" />
+<img width="2990" height="1347" alt="image" src="https://github.com/user-attachments/assets/1091ae8a-7c80-478b-abad-074c054e43ac" />
 
 **Why Another Proxy Provider?**
 
